@@ -1,0 +1,90 @@
+{
+  "recipes": [
+    {
+      "recipe_id": "1",
+      "recipe_name": "Beef Stir Fry",
+      "recipe_image": "https://www.themealdb.com/images/category/beef.png",
+      "short_description": "A quick and easy beef stir fry with vegetables.",
+      "ingredients": [
+        "500 g beef strips",
+        "100 ml soy sauce",
+        "200 g broccoli",
+        "2 tbsp olive oil"
+      ],
+      "preparing_time": "25 min",
+      "calories": "400 calories"
+    },
+    {
+      "recipe_id": "2",
+      "recipe_name": "Grilled Chicken",
+      "recipe_image": "https://www.themealdb.com/images/category/chicken.png",
+      "short_description": "Tender grilled chicken with a spicy marinade.",
+      "ingredients": [
+        "600 g chicken breasts",
+        "3 tbsp lemon juice",
+        "2 tbsp olive oil",
+
+        "1 tsp garlic powder"
+      ],
+      "preparing_time": "30 min",
+      "calories": "350 calories"
+    },
+    {
+      "recipe_id": "3",
+      "recipe_name": "Chocolate Cake",
+      "recipe_image": "https://www.themealdb.com/images/category/dessert.png",
+      "short_description": "A rich and moist chocolate cake for dessert.",
+      "ingredients": [
+        "200 g flour",
+        "150 g sugar",
+        "100 g cocoa powder",
+        "2 eggs"
+      ],
+      "preparing_time": "45 min",
+      "calories": "500 calories"
+    },
+    {
+      "recipe_id": "4",
+      "recipe_name": "Lamb Chops",
+      "recipe_image": "https://www.themealdb.com/images/category/lamb.png",
+      "short_description": "Succulent lamb chops marinated in herbs and grilled to perfection.",
+      "ingredients": [
+        "500 g lamb chops",
+        "1 tsp garlic",
+        "1 tsp black pepper",
+        "Salt to taste"
+      ],
+      "preparing_time": "35 min",
+      "calories": "450 calories"
+    },
+    {
+      "recipe_id": "5",
+      "recipe_name": "Pasta Salad",
+      "recipe_image": "https://www.themealdb.com/images/category/pasta.png",
+      "short_description": "A healthy and fresh pasta salad with vegetables.",
+      "ingredients": [
+        "200 g pasta",
+        "100 g cherry tomatoes",
+        "50 g feta cheese",
+
+        "1 tsp oregano"
+      ],
+      "preparing_time": "20 min",
+      "calories": "300 calories"
+    },
+    {
+      "recipe_id": "6",
+      "recipe_name": "Seafood Paella",
+      "recipe_image": "https://www.themealdb.com/images/category/seafood.png",
+      "short_description": "A classic Spanish seafood paella with shrimp and mussels.",
+      "ingredients": [
+        "300 g rice",
+        "200 g shrimp",
+        "150 g mussels",
+        "1 bell pepper"
+      ],
+      "preparing_time": "50 min",
+      "calories": "600 calories"
+    }
+  ]
+}
