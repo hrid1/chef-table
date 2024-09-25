@@ -11,7 +11,7 @@
         "200 g broccoli",
         "2 tbsp olive oil"
       ],
-      "preparing_time": "25 min",
+      "preparing_time": 25 ,
       "calories": "400 calories"
     },
     {
@@ -26,7 +26,7 @@
 
         "1 tsp garlic powder"
       ],
-      "preparing_time": "30 min",
+      "preparing_time": 30 ,
       "calories": "350 calories"
     },
     {
@@ -40,7 +40,7 @@
         "100 g cocoa powder",
         "2 eggs"
       ],
-      "preparing_time": "45 min",
+      "preparing_time": 45 ,
       "calories": "500 calories"
     },
     {
@@ -54,7 +54,7 @@
         "1 tsp black pepper",
         "Salt to taste"
       ],
-      "preparing_time": "35 min",
+      "preparing_time": 35 ,
       "calories": "450 calories"
     },
     {
@@ -69,7 +69,7 @@
 
         "1 tsp oregano"
       ],
-      "preparing_time": "20 min",
+      "preparing_time": 20 ,
       "calories": "300 calories"
     },
     {
@@ -83,7 +83,7 @@
         "150 g mussels",
         "1 bell pepper"
       ],
-      "preparing_time": "50 min",
+      "preparing_time": 50 ,
       "calories": "600 calories"
     }
   ]

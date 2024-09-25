@@ -2,7 +2,7 @@ import chef from "../../../assets/chefHero.jpg";
 
 const Hero = () => {
   return (
-    <div>
+    <div className="container mx-auto px-6">
       <div
         className="hero border rounded-2xl overflow-hidden md:min-h-[550px] bg-bottom my-10"
         style={{

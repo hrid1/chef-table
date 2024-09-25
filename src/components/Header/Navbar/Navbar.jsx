@@ -1,5 +1,5 @@
 import { FaRegUserCircle } from "react-icons/fa";
-import { SiCodechef, SiIfood } from "react-icons/si";
+import {  SiIfood } from "react-icons/si";
 
 const Navbar = () => {
   const navLinks = (
@@ -21,7 +21,7 @@ const Navbar = () => {
 
   return (
     <div>
-      <div className="navbar bg-yellow-50">
+      <div className="navbar bg-yellow-50 py-8">
         <div className="navbar-start w-full ">
           <div className="dropdown">
             <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">

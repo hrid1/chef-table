@@ -2,7 +2,6 @@ import { FaClock, FaFire } from "react-icons/fa";
 import PropTypes from "prop-types";
 const FoodCard = ({ recipe, handleToCook}) => {
   const {
-    recipe_id,
     recipe_name,
     recipe_image,
     short_description,
@@ -11,11 +10,11 @@ const FoodCard = ({ recipe, handleToCook}) => {
     calories,
   } = recipe;
 
-  console.log(handleToCook);
+  // console.log(handleToCook);
 
   return (
     <div>
-      <div className="card bg-base-100 shadow-xl p-4 h-[600px]">
+      <div className="card bg-base-100 shadow-xl p-4 h-[640px]">
         <div className="h-56 bg-gray-200 rounded-md">
           <img
             src={recipe_image}
@@ -44,11 +43,11 @@ const FoodCard = ({ recipe, handleToCook}) => {
             <div className="flex">
               <p className="flex items-center gap-2">
                 <FaClock />
-                30 minutes
+                {preparing_time} minutes
               </p>
               <p className="flex items-center gap-2">
                 <FaFire />
-                600 calories
+                {calories}
               </p>
             </div>
 
@@ -62,6 +61,7 @@ const FoodCard = ({ recipe, handleToCook}) => {
 
 FoodCard.propTypes = {
   recipe: PropTypes.object,
+  handleToCook: PropTypes.func,
 };
 
 export default FoodCard;
